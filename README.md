@@ -5,7 +5,6 @@ Interactive Grid: Click on any cell to start editing its content. You can select
 Formula Bar: A formula bar at the top of the interface allows you to enter or edit the values in the selected cells.
  # 2. Formula Calculations
 Perform common calculations on selected cells:
-
 SUM: Adds up the values in the selected cells.
 AVERAGE: Calculates the average value of the selected cells.
 MAX: Finds the maximum value in the selected cells.
